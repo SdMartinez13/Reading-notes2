@@ -10,3 +10,6 @@
 
 *[class01notes](class-01.md)* 
 
+*[class02notes](class-02.md)*
+
+
