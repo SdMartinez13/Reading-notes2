@@ -8,5 +8,5 @@
 
 ## **Table of Contents**
 
-[class01notes](class-01.md)
+*[class01notes](class-01.md)* 
 
