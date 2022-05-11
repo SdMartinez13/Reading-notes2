@@ -12,4 +12,6 @@
 
 *[class02notes](class-02.md)*
 
+*[class03notes](class-03.md)*
+
 
