@@ -13,6 +13,7 @@ Readings: Images, Color, Text
 - 
 
 **Chapter 12: "Text"(pp.264-299)**
+
 - 
 
 ***Blog Post***
@@ -24,4 +25,4 @@ Readings: Images, Color, Text
 
 ## Things I want to know more about
 
-***I ***
+***I***
