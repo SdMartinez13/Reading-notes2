@@ -17,3 +17,5 @@
 *[class04notes](class-04.md)*
 
 *[class05notes](class-05.md)*
+
+*[class06notes](class-06.md)*
