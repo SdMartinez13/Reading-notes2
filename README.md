@@ -23,3 +23,5 @@
 *[class07notes](class-07.md)*
 
 *[class08notes](class-08.md)*
+
+*[class08notes](class-09.md)*
