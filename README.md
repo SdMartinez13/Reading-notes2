@@ -29,3 +29,5 @@
 *[class10notes](class-10.md)*
 
 *[class11notes](class-11.md)*
+
+*[class12notes](class-11.md)*
