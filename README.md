@@ -30,4 +30,6 @@
 
 *[class11notes](class-11.md)*
 
-*[class12notes](class-11.md)*
+*[class12notes](class-12.md)*
+
+*[class13notes](class-13.md)*
